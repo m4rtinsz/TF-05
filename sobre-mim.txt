@@ -1,0 +1,3 @@
+Nome: (preencha aqui)
+Curso: (preencha aqui)
+Objetivo com este repositório: aprender Git e GitHub na prática.
