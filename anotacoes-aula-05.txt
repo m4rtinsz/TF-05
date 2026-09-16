@@ -1,0 +1,7 @@
+Anotações - Aula 05
+
+Tópicos:
+- git init: cria um repositório local
+- .gitignore: lista arquivos que o git deve ignorar
+- git add / git commit: registra alterações localmente
+- git remote add / git push: conecta e envia para o GitHub
